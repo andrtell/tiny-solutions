@@ -1,2 +1,2 @@
-# tiny-solutions
-Solutions to tiny Linux related problems
+# Tiny solutions
+Tiny solutions to tiny problems.

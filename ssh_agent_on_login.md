@@ -1,4 +1,4 @@
-# SSH Agent start on login
+# Start SSH Agent on login
 
 Add this to your `~/.bash_profile`
 

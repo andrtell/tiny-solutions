@@ -1,6 +1,7 @@
 # Tiny solutions
 Tiny solutions to tiny problems.
 
+* [Elixir node in container](elixir_node_in_container.md)
 * [Erlang shell history](erlang_shell_history.md)
 * [Firefox ugly fonts](firefox_ugly_fonts.md)
 * [Manual Certbot](manual_certbot.md)
